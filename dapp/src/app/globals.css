@@ -1,0 +1,91 @@
+@import 'tailwindcss';
+
+:root {
+  /* Third Energy Brand Colors */
+  --color-primary: #fcc744;
+  --color-primary-100: #e6b800;
+  --color-blue: #2b81ff;
+  --color-success: #28a745;
+  --color-warning: #fd7e14;
+  --color-error: #dc3545;
+
+  /* Gray Scale */
+  --color-gray-10: #f7f7f7;
+  --color-gray-25: #f4f4f4;
+  --color-gray-100: #e9ecef;
+  --color-gray-500: #6c757d;
+  --color-gray-600: #777777;
+  --color-gray-700: #5a5a5a;
+  --color-gray-900: #1f1f1f;
+
+  /* Semantic Colors */
+  --background: #ffffff;
+  --foreground: #343a40;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--color-primary);
+  --color-primary-100: var(--color-primary-100);
+  --color-blue: var(--color-blue);
+  --color-success: var(--color-success);
+  --color-warning: var(--color-warning);
+  --color-error: var(--color-error);
+
+  --color-gray-10: var(--color-gray-10);
+  --color-gray-25: var(--color-gray-25);
+  --color-gray-100: var(--color-gray-100);
+  --color-gray-500: var(--color-gray-500);
+  --color-gray-600: var(--color-gray-600);
+  --color-gray-700: var(--color-gray-700);
+  --color-gray-900: var(--color-gray-900);
+
+  --font-hanken-grotesk: var(--font-hanken-grotesk);
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-hanken-grotesk), Helvetica, sans-serif;
+}
+
+/* Range slider styles */
+.range-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #2b81ff;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.range-slider::-moz-range-thumb {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #2b81ff;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+.range-slider::-ms-thumb {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #2b81ff;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "type": "constructor",
+    "stateMutability": "undefined",
+    "payable": false,
+    "inputs": [
+      { "type": "string", "name": "name" },
+      { "type": "string", "name": "symbol" },
+      { "type": "address", "name": "treasury_" },
+      { "type": "uint256", "name": "goalTinybars_" },
+      { "type": "uint64", "name": "deadlineSec_" }
+    ]
+  },
+  { "type": "error", "name": "ReentrancyGuardReentrantCall", "inputs": [] },
+  {
+    "type": "event",
+    "anonymous": false,
+    "name": "Contributed",
+    "inputs": [
+      { "type": "address", "name": "user", "indexed": true },
+      { "type": "uint256", "name": "tinybars", "indexed": false },
+      { "type": "uint256", "name": "shares", "indexed": false }
+    ]
+  },
+  {
+    "type": "event",
+    "anonymous": false,
+    "name": "Finalized",
+    "inputs": [
+      { "type": "uint8", "name": "outcome", "indexed": false },
+      { "type": "uint256", "name": "totalRaised", "indexed": false }
+    ]
+  },
+  {
+    "type": "event",
+    "anonymous": false,
+    "name": "FundingClosed",
+    "inputs": [{ "type": "uint256", "name": "totalRaised", "indexed": false }]
+  },
+  {
+    "type": "event",
+    "anonymous": false,
+    "name": "Refunded",
+    "inputs": [
+      { "type": "address", "name": "user", "indexed": true },
+      { "type": "uint256", "name": "tinybars", "indexed": false }
+    ]
+  },
+  {
+    "type": "event",
+    "anonymous": false,
+    "name": "Withdrawn",
+    "inputs": [
+      { "type": "address", "name": "treasury", "indexed": true },
+      { "type": "uint256", "name": "tinybars", "indexed": false }
+    ]
+  },
+  {
+    "type": "function",
+    "name": "closeFunding",
+    "constant": false,
+    "payable": false,
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "contribute",
+    "constant": false,
+    "stateMutability": "payable",
+    "payable": true,
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "deadline",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "uint64", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "finalize",
+    "constant": false,
+    "payable": false,
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "goalTinybars",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "uint256", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "phase",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "uint8", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "refund",
+    "constant": false,
+    "payable": false,
+    "inputs": [{ "type": "uint256", "name": "tinybarsAmount" }],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "share",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "address", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "status",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [
+      { "type": "uint8", "name": "" },
+      { "type": "uint256", "name": "raised" },
+      { "type": "uint64", "name": "endTs" },
+      { "type": "uint256", "name": "goal" }
+    ]
+  },
+  {
+    "type": "function",
+    "name": "sweepToTreasury",
+    "constant": false,
+    "payable": false,
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "totalRaised",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "uint256", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "treasury",
+    "constant": true,
+    "stateMutability": "view",
+    "payable": false,
+    "inputs": [],
+    "outputs": [{ "type": "address", "name": "" }]
+  },
+  {
+    "type": "function",
+    "name": "withdraw",
+    "constant": false,
+    "payable": false,
+    "inputs": [{ "type": "uint256", "name": "tinybarsAmount" }],
+    "outputs": []
+  },
+  { "type": "receive", "stateMutability": "payable" }
+]

@@ -1,0 +1,2055 @@
+{
+  "energy_limit": 200,
+  "inverter": {
+    "current": "0.032 A",
+    "energy": "0.000 Wh",
+    "energy_limit": "0 Wh",
+    "frequency": "50.00 Hz",
+    "pf": "0.15",
+    "power": "1.00 W",
+    "relay": "ON",
+    "voltage": "214.50 V"
+  },
+  "logs": {
+    "-OZc7aGqCr4wwhzQxIp7": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "1970-01-01 00:06:11"
+    },
+    "-OZc7cm2L7kfPAlxjeVo": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:02:55"
+    },
+    "-OZc7fGmMTq_k1F3UOSP": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:05"
+    },
+    "-OZc7iK4fDQldeFPi8Oi": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:17"
+    },
+    "-OZc7ksH6s-JWOzxIecs": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:28"
+    },
+    "-OZc7nGiOE8y3W-lsjCO": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:38"
+    },
+    "-OZc7pfbj3-aYBarN85I": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:48"
+    },
+    "-OZc7s0rX0BfCAfflno7": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:03:57"
+    },
+    "-OZc7v14ljYj1ofdhXp3": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:04:10"
+    },
+    "-OZc7ylfkg5Y7fWXQNiJ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:04:25"
+    },
+    "-OZc80AMionPGl0YuOTW": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:04:35"
+    },
+    "-OZc82TbrT80Q6hNgTKo": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:04:44"
+    },
+    "-OZc84sLZZVC30b10By9": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:04:54"
+    },
+    "-OZc87N3TNJmULcqRnU8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:04"
+    },
+    "-OZc89iG6q0t23Dw1hlf": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:14"
+    },
+    "-OZc8CDnZLdNztBVjle9": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:24"
+    },
+    "-OZc8EcYtf8NRuAiHehJ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:34"
+    },
+    "-OZc8HAaGYH-_b0zPZd_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:44"
+    },
+    "-OZc8Jfca9L0PsfZFQ2T": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:05:54"
+    },
+    "-OZc8MaOig7wvAUeMSI3": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:06:06"
+    },
+    "-OZc8PcC0LexO3RWLr66": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:06:19"
+    },
+    "-OZc8S1rJS_LRUKsQs_0": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:06:29"
+    },
+    "-OZc8VHIsZhfLu7kvUkl": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:06:42"
+    },
+    "-OZc8Y3xx9sfTTtFi4YG": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:06:54"
+    },
+    "-OZc8_U94uinGmgEv90O": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:04"
+    },
+    "-OZc8bvUxke43nZyO1mK": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:14"
+    },
+    "-OZc8eQh0WpYd3Fs2Ppy": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:24"
+    },
+    "-OZc8givPQmE-Y5jwHPP": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:33"
+    },
+    "-OZc8jD_cropV9RMJf_h": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:43"
+    },
+    "-OZc8lc9KIHI9_2AqhtD": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:07:53"
+    },
+    "-OZc8qB-SYpd2BKV9gUX": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:08:12"
+    },
+    "-OZc8sm8tTtf5CsafvRt": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:08:23"
+    },
+    "-OZc8vDjb06h0CnUOvBl": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:08:33"
+    },
+    "-OZc8xj4RZmQvzx52cx4": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:08:43"
+    },
+    "-OZc9-GxQtFJKwi_eg-o": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:08:53"
+    },
+    "-OZc91lh5dgGyc09xuWM": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:09:03"
+    },
+    "-OZc94yUY_Yav9-TBdbQ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:09:14"
+    },
+    "-OZc98vtzfC9JH0ArkH0": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:09:30"
+    },
+    "-OZc9BQezuaUMr61NYng": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:09:43"
+    },
+    "-OZc9Dze2zzLJswXxJ7H": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:09:53"
+    },
+    "-OZc9H1QcgKVy9To_xjf": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:10:05"
+    },
+    "-OZc9KGejKDoa3qfDYaz": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:10:17"
+    },
+    "-OZc9SA_ujb63QWfb4st": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:10:51"
+    },
+    "-OZc9UfMKpj2xdJKsjjM": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:11:02"
+    },
+    "-OZc9XmHKqfqZ7MnBqR0": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:11:14"
+    },
+    "-OZc9_K9xQH07QUqBJtz": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:11:25"
+    },
+    "-OZc9c_WZl0xCJQMBoX3": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:11:38"
+    },
+    "-OZc9f7dwYELdKbimr5n": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:11:49"
+    },
+    "-OZc9iQQqKZRpSmSRkFP": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:00"
+    },
+    "-OZc9lDVb5vwzAEbQRgW": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:14"
+    },
+    "-OZc9ncFRecelFH1aNpl": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:24"
+    },
+    "-OZc9qQHxCrAlqFksLlc": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:35"
+    },
+    "-OZc9svdRi5TgyXfSzvU": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:45"
+    },
+    "-OZc9vQcx2GHxjiroM_8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:12:55"
+    },
+    "-OZc9ym21d6W3QI7Qcom": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:13:09"
+    },
+    "-OZcA0DZUzpU8qJD0Jl5": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:13:19"
+    },
+    "-OZcA2cFIBJa_hsv11Mu": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:13:29"
+    },
+    "-OZcA5EHvN8L7xFxB3yx": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:13:40"
+    },
+    "-OZcA80vzO465r6XWi63": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:13:51"
+    },
+    "-OZcAAWuSxLQCHVoBFQF": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:01"
+    },
+    "-OZcAD7dw0pcVtajznud": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:12"
+    },
+    "-OZcAFiaJkjZ_G6gmGrl": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:22"
+    },
+    "-OZcAIGfqYiPx2_LswIx": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:33"
+    },
+    "-OZcAKyyev1azqPT2PGk": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:44"
+    },
+    "-OZcAN_ztvV9JYlww2T1": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:14:55"
+    },
+    "-OZcARTaKorqh5kyZ_m_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:15:11"
+    },
+    "-OZcATya0AtMm_84sfYj": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:15:21"
+    },
+    "-OZcAWXVE8heATy_t4vU": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:15:31"
+    },
+    "-OZcAZowoZK5uMjg_afp": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:15:43"
+    },
+    "-OZcAbHBrx9Z5AS6YlYA": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:15:55"
+    },
+    "-OZcAdpPcq-7PVBvh829": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:16:05"
+    },
+    "-OZcAgoyEI3VvrVgFraK": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:16:18"
+    },
+    "-OZcAk3xaN2iv7m_Stdu": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:16:31"
+    },
+    "-OZcAmwZvOvooQaHegY1": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:16:43"
+    },
+    "-OZcApfQSrkMZfmUExar": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:16:53"
+    },
+    "-OZcAsAFK8FTxwVNBzBv": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:17:04"
+    },
+    "-OZcAuj9hDKkX0TieLwY": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:17:15"
+    },
+    "-OZcAxTdZXxGYHsp6gU8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:17:26"
+    },
+    "-OZcB-1Xp0stJTq1vpp6": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:17:36"
+    },
+    "-OZcB1ihhY09gHeEQsxc": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:17:47"
+    },
+    "-OZcB54EWOhb47_MZZgH": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:01"
+    },
+    "-OZcB8XorrKWt7hQzKe3": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:15"
+    },
+    "-OZcBB4FYl4B4Juup-F7": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:25"
+    },
+    "-OZcBDihCVRDuQIsE0iy": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:37"
+    },
+    "-OZcBGLL4sUcqROFSyqI": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:47"
+    },
+    "-OZcBIsC5z6PonEowp_Y": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:18:57"
+    },
+    "-OZcBL__iSvjG-4MlJG8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:19:08"
+    },
+    "-OZcBO4TFe5q-jyR3_7d": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:19:19"
+    },
+    "-OZcBRTiOKLuLUyII7qb": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:19:31"
+    },
+    "-OZcBUiSTaaVhJUU5YhI": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:19:46"
+    },
+    "-OZcBXsDnZ78QYtJatu-": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:19:59"
+    },
+    "-OZcB_p8VjpDqMAtyG72": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:20:11"
+    },
+    "-OZcBeGnAuoYBAaqGR9j": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:20:26"
+    },
+    "-OZcBgp3LjlMrAytbcTt": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:20:40"
+    },
+    "-OZcBjNGOa1DFO0g6VGs": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:20:50"
+    },
+    "-OZcBm0tSF2-0AvxTt0K": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:21:01"
+    },
+    "-OZcBocePz-q6XCZkKiw": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:21:12"
+    },
+    "-OZcBrn-Q4sMyyM0dybR": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:21:25"
+    },
+    "-OZcBvER1d27_1nTqk5F": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:21:37"
+    },
+    "-OZcBxpMBnMEFHib06XQ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:21:49"
+    },
+    "-OZcC-X9pcpPIZGpyGcW": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:22:00"
+    },
+    "-OZcC8NqE4pNc4APMly7": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:22:35"
+    },
+    "-OZcCCEIqUugzNrca_L5": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:22:53"
+    },
+    "-OZcCK_btFaTJ0qateF6": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:23:16"
+    },
+    "-OZcCO4joShm0miUbw19": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:23:38"
+    },
+    "-OZcCRflvN_2L4d6pib6": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:23:53"
+    },
+    "-OZcCUva0iRjFus1CpVV": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:24:09"
+    },
+    "-OZcCXdLlpDOEnbt9E1I": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:24:20"
+    },
+    "-OZcC_WqLcsvUfQAeMKC": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:24:32"
+    },
+    "-OZcCcDnfVHZzxDk9jgh": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:24:43"
+    },
+    "-OZcCeul3ESiK65ad034": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:24:54"
+    },
+    "-OZcChUN0WO-EUKD4pJh": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:25:05"
+    },
+    "-OZcCjyaQxIi9KHl50O6": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:25:15"
+    },
+    "-OZcCmUzdHmYUHKuHCfN": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:25:25"
+    },
+    "-OZcCplyLLHgwnoWoY3P": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:25:36"
+    },
+    "-OZcCsyz8xUSsnJb61ND": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:25:50"
+    },
+    "-OZcCvXadKkymIdTPNXk": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:02"
+    },
+    "-OZcCz4uopi7zDbDQWXj": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:14"
+    },
+    "-OZcD0cFBWUuELFX-cce": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:27"
+    },
+    "-OZcD33z-tyVhLTpvZde": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:37"
+    },
+    "-OZcD5_-Ci2hEASH5mhz": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:47"
+    },
+    "-OZcD80rvj7p2umEWDu9": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:26:58"
+    },
+    "-OZcDATaKlCVHjKMWot0": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:27:08"
+    },
+    "-OZcDD3r3Diw70DWfSa0": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:27:18"
+    },
+    "-OZcDFUCT1t9YNCebCgf": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:27:28"
+    },
+    "-OZcDIRivvN9Dl5xiud_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:27:40"
+    },
+    "-OZcDPsEz1UlKQ52Lc5h": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:28:11"
+    },
+    "-OZcDSTgbLQKRz_f2wiq": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:28:21"
+    },
+    "-OZcDWDdPXJXhHDlOPpD": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:28:33"
+    },
+    "-OZcDYofdINZvh1s-YrP": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:28:47"
+    },
+    "-OZcDaNBX10CM64UTcaS": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:28:58"
+    },
+    "-OZcDcq1QBHdYkLc2n_A": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:29:08"
+    },
+    "-OZcDfH4Ax_alvn36OMl": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:29:18"
+    },
+    "-OZcDhymVD4I3gFDTgLH": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:29:28"
+    },
+    "-OZcDkQU5zDi_CGa_M-b": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:29:39"
+    },
+    "-OZcDn0wcBV6QDwta3-B": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:29:50"
+    },
+    "-OZcDpfkeYfYC0itu1mL": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:00"
+    },
+    "-OZcDsAvLoDmjOlUb3rL": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:11"
+    },
+    "-OZcDuigPFAS8YDUJwPj": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:21"
+    },
+    "-OZcDxNe9qVg6ABp1tnf": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:32"
+    },
+    "-OZcE07ZhZFPDx8XufM_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:46"
+    },
+    "-OZcE2shr9Cxu973rl_I": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:30:59"
+    },
+    "-OZcE6KYLyqla-Ih9BGD": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:31:13"
+    },
+    "-OZcEAFLfDKiKzgsHt4t": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:31:27"
+    },
+    "-OZcEEmJzfEz-PPaOU-x": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:31:47"
+    },
+    "-OZcEI7BjbqPtH0V9-53": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:32:01"
+    },
+    "-OZcEMXP0VK3J59hQGT9": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:32:19"
+    },
+    "-OZcEPWyfHMQXgyjngKT": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:32:30"
+    },
+    "-OZcESK2RtLvItgzQAq8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:32:43"
+    },
+    "-OZcEUvkMs2tP9eojf8_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:32:53"
+    },
+    "-OZcEY7H1r479rDE1lFK": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:33:05"
+    },
+    "-OZcEbNJU0vK7eX5Jtr_": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:33:21"
+    },
+    "-OZcEeDu4v_icH7PtTVp": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:33:36"
+    },
+    "-OZcI3KWYQJAelIqDPrQ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 07:48:29"
+    },
+    "-OZcLspdrf2qBuFbWbxH": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:05:11"
+    },
+    "-OZcLv_tPkDoTprRql8G": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:05:22"
+    },
+    "-OZcM-UJav15VmLpfh3i": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:05:42"
+    },
+    "-OZcM2UCF84OKjqCLzhR": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:05:53"
+    },
+    "-OZcM6OfKV2dYnBmewL8": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:06:07"
+    },
+    "-OZcM9Xvle-flJsWn9QR": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:06:22"
+    },
+    "-OZcMD_pvNsq24zn4Ow-": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:06:39"
+    },
+    "-OZcMIU5WoaSwcm89N3v": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:07:00"
+    },
+    "-OZcMLk87O0BhjU8uIp-": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:07:13"
+    },
+    "-OZcMP4VyvCGM6c-mn3m": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:07:27"
+    },
+    "-OZcMTx-DthvNff3poZh": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:07:44"
+    },
+    "-OZcMhpe_Mi53KXagele": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:08:47"
+    },
+    "-OZcMmR3yB-xjr0FPGfW": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:09:07"
+    },
+    "-OZcMp_xILHQ9GERZyRP": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:09:19"
+    },
+    "-OZcMuXc1N92wzBWwEZf": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:09:37"
+    },
+    "-OZcMzYCgF_SmgGMYg44": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:09:57"
+    },
+    "-OZcN7mOcIqFIdYJzX_T": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:10:38"
+    },
+    "-OZcNBUrjt-nqSeIVlVW": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:10:49"
+    },
+    "-OZcNEd4uEZgBKoTNoEo": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:11:04"
+    },
+    "-OZcNHR884b388QB0NiG": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:11:18"
+    },
+    "-OZcNK2-cA6o31sAMBuA": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:11:28"
+    },
+    "-OZcNNXa1aZ8hN-MvBsD": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:11:42"
+    },
+    "-OZcNQUrHFVfiS0tNN6a": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:11:55"
+    },
+    "-OZcNV1v4cDNypUeZzjS": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:12:10"
+    },
+    "-OZcN_vBPwP9gIQ7zcjr": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:12:36"
+    },
+    "-OZcNd_i3LvH2iIKye0c": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:12:52"
+    },
+    "-OZcOCUhcviv7j6bkfxe": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:15:19"
+    },
+    "-OZcOFqBAeYbFFGQTEMz": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:15:33"
+    },
+    "-OZcOVmPUTzdDaaYvjfC": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:16:37"
+    },
+    "-OZcOZdFy5oJnKMRKY-L": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:16:53"
+    },
+    "-OZcOct7DCY5XGqUHzYF": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:17:10"
+    },
+    "-OZcOfvyHrB3wLGLUHRg": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:17:24"
+    },
+    "-OZcOimVO5MEztWz23aw": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:17:35"
+    },
+    "-OZcOlNgHOV7_UVI_pdj": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:17:47"
+    },
+    "-OZcOnzi0fX8MdTK6gCJ": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:17:57"
+    },
+    "-OZcOs1VRD9y-5-pE2VY": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:18:11"
+    },
+    "-OZcOwdB0t9_07eyrw9h": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:18:31"
+    },
+    "-OZcOzrTniN3toSCeXKo": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:18:43"
+    },
+    "-OZcP9BW7hKTaIv0R_-Z": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:19:05"
+    },
+    "-OZcPIcsk3oLdxUJogNi": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:19:44"
+    },
+    "-OZcPn_uAQwkn3Wf4GMz": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:22:17"
+    },
+    "-OZcPuXfxiVjCo6AgfPe": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:22:43"
+    },
+    "-OZcPxHWVU9r51l15-32": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:22:57"
+    },
+    "-OZcQ0UGTVTbQovc6xc5": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:23:13"
+    },
+    "-OZcQ3UKRLztZmoX35ht": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:23:26"
+    },
+    "-OZcQAdThinzPni9ohvx": {
+      "event": "Data: 0.0Wh used / 0Wh limit",
+      "time": "2025-09-08 08:23:53"
+    },
+    "-OZcQDa2VERvNZ4iZhYc": {
+      "event": "New recharge: 1000 Wh",
+      "time": "2025-09-08 08:24:08"
+    },
+    "-OZcQEtc63tNMmDuResA": {
+      "event": "Data: 0.0Wh used / 1000Wh limit",
+      "time": "2025-09-08 08:24:13"
+    },
+    "-OZcQJ1nXBRgBRBU4VAM": {
+      "event": "Data: 0.0Wh used / 1000Wh limit",
+      "time": "2025-09-08 08:24:25"
+    },
+    "-OZcQNk5odGq84QHfKBF": {
+      "event": "Data: 0.0Wh used / 1000Wh limit",
+      "time": "2025-09-08 08:24:46"
+    },
+    "-OZcQR7Crw7Npb3iOZm7": {
+      "event": "Data: 0.0Wh used / 1000Wh limit",
+      "time": "2025-09-08 08:25:03"
+    },
+    "-OZcQU2KHGJZu-OgLyrR": {
+      "event": "New recharge: 2000 Wh",
+      "time": "2025-09-08 08:25:15"
+    },
+    "-OZcQVjVP64di6G5l7B2": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:25:23"
+    },
+    "-OZcQYXUIzP6NSAgWX8A": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:25:34"
+    },
+    "-OZcQcBoRJh_o8qHi1Vd": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:25:50"
+    },
+    "-OZcQeq95uZvimWn6OQK": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:26:04"
+    },
+    "-OZcQictqYr_Wb55TtjG": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:26:16"
+    },
+    "-OZcQnsuTC0IPTsLwNix": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:26:40"
+    },
+    "-OZcQsk1CcXiLn646N_Z": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:26:55"
+    },
+    "-OZcQwsytYHPaEZcgGNy": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:27:18"
+    },
+    "-OZcR0B9bQnM1i1AViKA": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:27:32"
+    },
+    "-OZcUCOQD_FS3aUvSNxG": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:41:30"
+    },
+    "-OZcUFUpM1SuLft6xJkv": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:41:42"
+    },
+    "-OZcUIHPwpsF9ZJbC25n": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:41:56"
+    },
+    "-OZcULCnTjALwPJ7MmQ_": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:42:08"
+    },
+    "-OZcUO8JW73u_HFhHoeo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:42:20"
+    },
+    "-OZcUQ_X0o9MSL1H0Zhr": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:42:30"
+    },
+    "-OZcUT52N9RPsKPTk3kT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:42:41"
+    },
+    "-OZcUVXcwjWbRKDVOgYh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:42:51"
+    },
+    "-OZcUY-6aCpQ3qrGXfmZ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:43:01"
+    },
+    "-OZcU_YKt3A6wALYwEjh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:43:11"
+    },
+    "-OZcUczMgsk31YvdH5sL": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:43:25"
+    },
+    "-OZcUfgA7offRpillHWB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:43:36"
+    },
+    "-OZcUj-gndTiGZWQ9DL-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:43:49"
+    },
+    "-OZcUldGGFIotBt6ZQt4": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:44:01"
+    },
+    "-OZcUoYAgsSXyhT1AMPu": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:44:12"
+    },
+    "-OZcUr_h3L2gFn6dwAVC": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:44:24"
+    },
+    "-OZcUwXcGe9MUCEB_SMB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:44:45"
+    },
+    "-OZcUzNwEaqJK2eDx-Ru": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:44:57"
+    },
+    "-OZcV0t55a_bx30Kw3EX": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:45:07"
+    },
+    "-OZcV3zN_Ys5Xstz0GQk": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:45:19"
+    },
+    "-OZcV6waQxRwJcoCHl73": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:45:32"
+    },
+    "-OZcV9UQwOZJ8AH73A-N": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:45:42"
+    },
+    "-OZcVCRIHqFM8S1k7a3Q": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:45:53"
+    },
+    "-OZcVFKca6PSWcvQxJlX": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:46:06"
+    },
+    "-OZcVI1mVjVkQ_PDpmfh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:46:17"
+    },
+    "-OZcVKjRk85pdhWhuisi": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:46:28"
+    },
+    "-OZcVOEnIygh9L41YKYa": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:46:42"
+    },
+    "-OZcVQwKgcYShsGzoqya": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:46:54"
+    },
+    "-OZcVU-EpXscILMxZHg1": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:47:06"
+    },
+    "-OZcVWgbwLh6LR9lpSpo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:47:17"
+    },
+    "-OZcV_Kru4tqgUF2jn__": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:47:31"
+    },
+    "-OZcVcrAFiaJdX8V1TQp": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:47:46"
+    },
+    "-OZcVgq0_ZPPM1Q4rTYj": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:48:03"
+    },
+    "-OZcVmBEQEmPXQSHnnZT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 08:48:23"
+    },
+    "-OZcYhch729CO_RtqzF-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:01:13"
+    },
+    "-OZcYjzNlhkgdfqKQe-k": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:01:22"
+    },
+    "-OZcYmHW_lCGpZi4Yzv9": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:01:32"
+    },
+    "-OZcYomhc-JrOgSqrU4A": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:01:42"
+    },
+    "-OZcYr7zIxMQSIQsPUUE": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:01:52"
+    },
+    "-OZcYtdAig-yrrMNT3Lt": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:02"
+    },
+    "-OZcYw4souE3QSfYj9x6": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:12"
+    },
+    "-OZcYyczOl5t8x4ZnBqf": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:22"
+    },
+    "-OZcZ087DnD2vY4HwhLB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:33"
+    },
+    "-OZcZ2Xd4Kg9QLudWfhX": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:43"
+    },
+    "-OZcZ5HQtnLQXkNnYzsw": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:02:54"
+    },
+    "-OZcZ7zcokEjcUQOk62E": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:03:05"
+    },
+    "-OZcZAopYjBTRLRledqX": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:03:16"
+    },
+    "-OZcZDHQ-7PiEZkXbN4M": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:03:27"
+    },
+    "-OZcZHEzntLcGZ0zb2OM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:03:41"
+    },
+    "-OZcZJzHNzUGGolPuvQb": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:03:54"
+    },
+    "-OZcZMULp833rrDSUs-u": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:04:04"
+    },
+    "-OZcZOqE4XYiEUHxKFiY": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:04:14"
+    },
+    "-OZcZRBEzMQKakAar89Q": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:04:24"
+    },
+    "-OZcZTcuoyJnGxZ1Itzy": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:04:34"
+    },
+    "-OZcZW86YSsEqsC2u6Zr": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:04:44"
+    },
+    "-OZcZagSVP0O0w6U_tlT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:05:05"
+    },
+    "-OZcZdEHAoAWikuEMGdQ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:05:17"
+    },
+    "-OZcZfmXI-BLerAZSZSo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:05:28"
+    },
+    "-OZcZiBH3-etIMbCZCOh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:05:37"
+    },
+    "-OZcZm5JG4g1IgvOFS3N": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:05:53"
+    },
+    "-OZcZoXg_k1nrNWp0pcL": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:03"
+    },
+    "-OZcZqxHpUC5YhbqRQsO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:13"
+    },
+    "-OZcZtcsNKM9-EiKpkvS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:24"
+    },
+    "-OZcZw_dEl03MwBkIVf_": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:35"
+    },
+    "-OZcZz8MHvHrU0IBwNSF": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:46"
+    },
+    "-OZc_0wEhgZgrJK4awNU": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:06:57"
+    },
+    "-OZc_3IJYVoup7xKCBGM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:08"
+    },
+    "-OZc_5jzQC0aFsrvcJ2S": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:18"
+    },
+    "-OZc_8817kp0KcH_pVIO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:28"
+    },
+    "-OZc_Am_YEOK-0tWn_Uy": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:38"
+    },
+    "-OZc_DHdlMXBBdBeR2mo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:49"
+    },
+    "-OZc_Far-8DMUePdGVYC": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:07:58"
+    },
+    "-OZc_IsvgQt1WzAx5Y_4": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:08:12"
+    },
+    "-OZc_LtU8vbowM-jfIuB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:08:24"
+    },
+    "-OZc_OSEoBwlijDeZtHh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:08:34"
+    },
+    "-OZc_QzFja1iaVBT2ReR": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:08:45"
+    },
+    "-OZc_TNzKI1YYwOgIGzV": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:08:54"
+    },
+    "-OZc_Vqc5lK2HiCAiaR1": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:05"
+    },
+    "-OZc_YESjCKekElGNeIP": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:15"
+    },
+    "-OZc__dZd0l0h-r3EHYh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:25"
+    },
+    "-OZc_c4cNE2Uctx8BWJJ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:35"
+    },
+    "-OZc_eXebq8pUqgN9meh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:44"
+    },
+    "-OZc_hmgvlkcbq_kJVuu": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:09:58"
+    },
+    "-OZc_kB7BKn59f0ye4wo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:08"
+    },
+    "-OZc_md1CgLaHLeLhg0X": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:18"
+    },
+    "-OZc_owFD-GwUudl9UZi": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:27"
+    },
+    "-OZc_rHx3mMSN2up6h0C": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:37"
+    },
+    "-OZc_u2K-jl8UJuSuAKg": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:48"
+    },
+    "-OZc_wUh5EBWrUfVV-J8": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:10:58"
+    },
+    "-OZc_yzh-FPzJfaGVzC8": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:11:08"
+    },
+    "-OZca0YK7FX0FYMdXyGB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:11:18"
+    },
+    "-OZca3RDNY7XiE8BHpYO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:11:30"
+    },
+    "-OZca69xJwaRBcvHcj8Z": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:11:41"
+    },
+    "-OZca8_zFqbsx9TVIrUU": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:11:52"
+    },
+    "-OZcaB2lSpXT_ugR3CuZ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:12:02"
+    },
+    "-OZcaDa8hTb3ylUK2OhN": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:12:12"
+    },
+    "-OZcaG4oryTOIa5VRqCw": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:12:22"
+    },
+    "-OZcaJL1OsSJhx3ZnnSE": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:12:34"
+    },
+    "-OZcaRt5rZ8CSWpyUTmi": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:12:47"
+    },
+    "-OZcaWmaxM_baz7k8DuN": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:13:31"
+    },
+    "-OZcaZKug4tJc8HzQy-X": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:13:41"
+    },
+    "-OZcaaxNMTya78aMhB2K": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:13:52"
+    },
+    "-OZcadUYQI4qh6rP8PXf": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:14:02"
+    },
+    "-OZcah5FKIJiFvttr4CK": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:14:17"
+    },
+    "-OZcakjb5QymodVI8VLE": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:14:29"
+    },
+    "-OZcapUW23qS_0qGzQ3p": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:14:51"
+    },
+    "-OZcas-DofnVVD92gPIi": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:15:01"
+    },
+    "-OZcawKpu_lQUEJsdUgH": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:15:19"
+    },
+    "-OZcazFCzrLwKi7IDWJr": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:15:31"
+    },
+    "-OZcb0sx5aY8S8hrsaEO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:15:42"
+    },
+    "-OZcb4IExX2x9-d3prZO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:15:56"
+    },
+    "-OZcb6jlYX0FHovocGYx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:06"
+    },
+    "-OZcb9HwCUcyDdYk-7Ej": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:16"
+    },
+    "-OZcbBzSy4NX0hCpvKSa": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:27"
+    },
+    "-OZcbEUdfvItjmVf3_L5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:38"
+    },
+    "-OZcbGzV_qCPNxM9di9q": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:48"
+    },
+    "-OZcbKUq6G8R8dHGKi55": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:16:59"
+    },
+    "-OZcbPUrVtRuIpXizU-J": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:17:23"
+    },
+    "-OZcbRza6UTAEz4FDfJ5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:17:33"
+    },
+    "-OZcbUUh0uZSfqmcCPe7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:17:43"
+    },
+    "-OZcbWpzMMwTiipB7wgr": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:17:53"
+    },
+    "-OZcbZRGfFcrnZ52Mz1r": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:03"
+    },
+    "-OZcbawDb9nUMTtxmxxu": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:14"
+    },
+    "-OZcbdO7gxd3awguD0fO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:24"
+    },
+    "-OZcbgOGinbirTx7D-xG": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:36"
+    },
+    "-OZcbjUSEI2gA4K33GnJ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:49"
+    },
+    "-OZcbm288A53GKYXQnV9": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:18:59"
+    },
+    "-OZcboXkiTvfap2WF5lK": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:19:09"
+    },
+    "-OZcbqtoGXtT_5-vQkIH": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:19:19"
+    },
+    "-OZcbtEp-aqEIevfZGq4": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:19:29"
+    },
+    "-OZcbw89k9MnPkcKnDpq": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:19:41"
+    },
+    "-OZcbyYBG5xz-QV1ypSP": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:19:51"
+    },
+    "-OZcc0kF2X60yfwhgYlY": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:20:04"
+    },
+    "-OZcc3B6XkftRdSNEtk4": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:20:14"
+    },
+    "-OZcc8zSB7poOhTECdAT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:20:37"
+    },
+    "-OZccBO0xYtKW_dczyav": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:20:47"
+    },
+    "-OZccDq2yJud0VZSn1_-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:20:57"
+    },
+    "-OZccGLBv7wCZmEtGn-F": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:21:08"
+    },
+    "-OZccIqVduS5igsPgBFG": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:21:18"
+    },
+    "-OZccLHTmx3Huw6KB3mn": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:21:28"
+    },
+    "-OZcdhBD2MtIR2dJ8inp": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:27:24"
+    },
+    "-OZcdkBIMwRscly2Uiis": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:27:35"
+    },
+    "-OZcdmjfvl190_PRlFM3": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:27:46"
+    },
+    "-OZcdpXgawGgUz67pj_w": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:27:57"
+    },
+    "-OZcdrzZZhLymXubkN6E": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:28:08"
+    },
+    "-OZcduVEAXmfIy2J6qte": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:28:18"
+    },
+    "-OZce-270DwoTnvXY1Fp": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:28:41"
+    },
+    "-OZce2IY9c4Q1JaVNclp": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:28:53"
+    },
+    "-OZce6R8gziZkqI-QAUc": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:29:11"
+    },
+    "-OZceAG3TXkPHyHdE5IL": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:29:26"
+    },
+    "-OZceDAMB1TWDQeglHvM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:29:38"
+    },
+    "-OZceGgIDda58WyD_uw5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:29:53"
+    },
+    "-OZceK3nBD58XGgIUfyt": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:30:06"
+    },
+    "-OZceN__aTrM3RllYFTO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:30:20"
+    },
+    "-OZceQo83AXd95rELaRp": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:30:34"
+    },
+    "-OZceV0zFd8h1qC5DfMJ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:30:48"
+    },
+    "-OZceYIzrVKRYnAqvYoO": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:05"
+    },
+    "-OZce_n47ScEsqMeEXaC": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:16"
+    },
+    "-OZcecHf_ix0ud8_08Y7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:26"
+    },
+    "-OZceek5qc1mm4zEUWRh": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:36"
+    },
+    "-OZcehL5dIo0ISLyB9L_": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:46"
+    },
+    "-OZcejron8hRVxAwfqox": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:31:57"
+    },
+    "-OZcemOfg8fuzeOD3Awx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:32:07"
+    },
+    "-OZceowmYPXvZLhmsG2H": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:32:17"
+    },
+    "-OZcerjpspmHcbFoA-1H": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:32:29"
+    },
+    "-OZceuQEq1244ewAOsCx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:32:40"
+    },
+    "-OZcewwLD52Qw08-EWS2": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:32:50"
+    },
+    "-OZcf-8vBQpXR_lCE0Z5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:33:01"
+    },
+    "-OZcf2F4zegR3qLIvQjo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:33:17"
+    },
+    "-OZcf4zp7anc3fDCGSjj": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:33:27"
+    },
+    "-OZcf7_zMpqF5DrUYC4v": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:33:38"
+    },
+    "-OZcfAUhgAxiCiWbRoYA": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:33:50"
+    },
+    "-OZcfF4wnodkkB6w1aGo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:34:08"
+    },
+    "-OZcfIVNhReEJJShREkS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:34:23"
+    },
+    "-OZcfLT1VwxGUBfq6eI7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:34:33"
+    },
+    "-OZcfO1r6x-5_9e6o_Ra": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:34:45"
+    },
+    "-OZcfRHbsKL2Ygb2shf8": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:34:57"
+    },
+    "-OZcfW93k81Gqkf4PoT3": {
+      "event": "New recharge: 2000 Wh",
+      "time": "2025-09-08 09:35:19"
+    },
+    "-OZcfWwiCIzn-p-alVWe": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:35:22"
+    },
+    "-OZcfZO1wnLYliiEkJ6K": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:35:32"
+    },
+    "-OZcfaqCaQz2s03qded6": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:35:42"
+    },
+    "-OZcfddGlXRSMnxd206L": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:35:53"
+    },
+    "-OZcfg-b030L6RrXrQwY": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:36:03"
+    },
+    "-OZcfiUaXJtUKIPXFQ_O": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:36:13"
+    },
+    "-OZcfkz_OisLUZxetgpQ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:36:24"
+    },
+    "-OZcfn_zZp6c0iEqcAUT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:36:34"
+    },
+    "-OZcfqzdXFiUrIkvfhpH": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:36:48"
+    },
+    "-OZcfvwMBrKbHbW2cQL2": {
+      "event": "New recharge: 2000 Wh",
+      "time": "1970-01-01 00:00:03"
+    },
+    "-OZcfxG5wIbZvGqU_bYk": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:37:13"
+    },
+    "-OZcg0BSML4Ivk55r-YZ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:37:28"
+    },
+    "-OZcg3LBkhc1BVcx6tIS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:37:43"
+    },
+    "-OZcg6RGvZ6qjgVOEQAs": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:37:54"
+    },
+    "-OZcg92d5MAXweQ77GHt": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:38:06"
+    },
+    "-OZcgCcyXdaapE-v3atK": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:38:21"
+    },
+    "-OZcgFY4AJBl-RqPrG9f": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:38:32"
+    },
+    "-OZcgJ8_OJTRCHzPa1JR": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:38:44"
+    },
+    "-OZcgLq3lrG8avBBBFSB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:38:59"
+    },
+    "-OZcgOaPIJZpEyankxv1": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:39:09"
+    },
+    "-OZcgU007QflkexKU5OW": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:39:32"
+    },
+    "-OZcgXTH043tNyCJvOAb": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:39:46"
+    },
+    "-OZcg__FpAktMwy_XCvZ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:39:58"
+    },
+    "-OZcgdtBrfFyQxthTbTB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:40:09"
+    },
+    "-OZcghjq8bFKXfEE5S58": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:40:32"
+    },
+    "-OZcgk_vtBHpnT720Uv4": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:40:44"
+    },
+    "-OZcgnF062kcFa8_61ZW": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:40:55"
+    },
+    "-OZcgpqQTW8KDnmslB2u": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:41:05"
+    },
+    "-OZcgtMbmpg4VpuxkffR": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:41:20"
+    },
+    "-OZcgwd8hMisXiqNqoet": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:41:32"
+    },
+    "-OZch1CZyRE15yQlryan": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:41:46"
+    },
+    "-OZch43C_Qw9-9t6wAsd": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:42:08"
+    },
+    "-OZch7G3jjNa05nrUAQq": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:42:21"
+    },
+    "-OZchCLNNyiZwLC_v6eS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:42:42"
+    },
+    "-OZchFP0uk0p8iZmTYB8": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:42:54"
+    },
+    "-OZchIUe7jKn5umOwNiM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:43:06"
+    },
+    "-OZchM542OCmNLKL01LD": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:43:21"
+    },
+    "-OZchWKtKJf5E0-Bh2VL": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:43:42"
+    },
+    "-OZch_wkc8kXS2lc4RiI": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:44:19"
+    },
+    "-OZchcqRHQBR3FNo_bYm": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:44:34"
+    },
+    "-OZchgJY0nofcZ8kuxyj": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:44:47"
+    },
+    "-OZchk4yhSuTVvjyWQM3": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:45:04"
+    },
+    "-OZchnkJO4IaDRDs_sTd": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:45:14"
+    },
+    "-OZchqOf7i8ywFx0mexx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:45:30"
+    },
+    "-OZchstpCBCdHFVwHUmR": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:45:40"
+    },
+    "-OZchvODjgQvKS3CbFWb": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:45:50"
+    },
+    "-OZchycstYdvQdBSKC6K": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:46:01"
+    },
+    "-OZci0T8yTvxw1R4KQ4h": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:46:14"
+    },
+    "-OZci2zpwDxc_RBS6EZT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:46:26"
+    },
+    "-OZci5PjvsRNkFE7UBsU": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:46:36"
+    },
+    "-OZci7n8mQ18Z1U1F4GB": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:46:45"
+    },
+    "-OZciCu1HI_Oep6HiOc-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:47:03"
+    },
+    "-OZciJt43b94_mPL9P_-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:47:33"
+    },
+    "-OZciPC2_cpqP--q4QTd": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:47:57"
+    },
+    "-OZciS1uuEQCXKScTTP6": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:48:08"
+    },
+    "-OZciUqFU7mepd910x-Z": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:48:20"
+    },
+    "-OZciXOM5ZsVl0fzysCA": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:48:30"
+    },
+    "-OZci_EWIv3bAEIgAZSX": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:48:42"
+    },
+    "-OZcibmjBiefkh5Ht9zA": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:48:52"
+    },
+    "-OZcieLPwF2dWlRfu1lV": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:03"
+    },
+    "-OZcigqFSBKi-EyMo4et": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:13"
+    },
+    "-OZcij_teecVMUBtxw0Z": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:24"
+    },
+    "-OZcimXnrfjcbWo_FE8U": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:36"
+    },
+    "-OZcipEcgFRhLHSsQQNM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:47"
+    },
+    "-OZcirYOfAL5VbnWGCef": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:49:57"
+    },
+    "-OZciuBdWnv844W6T-K6": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:50:07"
+    },
+    "-OZciwtPUN1_lEUVVtk7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:50:19"
+    },
+    "-OZcizRXBpYOSbJjLJId": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:50:29"
+    },
+    "-OZcj0xNlSVUzz-g4Bbo": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:50:39"
+    },
+    "-OZcj3OmqFSAghNG7AtR": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:50:49"
+    },
+    "-OZcj6SOAH3Kwm2Cn2cx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:02"
+    },
+    "-OZcj9wCEZx6M3Eq9us_": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:16"
+    },
+    "-OZcjCgSBiesKcIhiPqE": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:26"
+    },
+    "-OZcjFL9CFzrQvqL49TK": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:38"
+    },
+    "-OZcjHxAc32n-bs5iMwE": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:49"
+    },
+    "-OZcjKzYYZgOgRRQEY5Q": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:51:59"
+    },
+    "-OZcjNXqyz8Jf2nlWJAT": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:52:12"
+    },
+    "-OZcjRRLHOjqrjf-GMEM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:52:27"
+    },
+    "-OZcjTx-lPbzM3FsskFM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:52:38"
+    },
+    "-OZcjWqH8xdRIt_u1Jx5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:52:50"
+    },
+    "-OZcj_SOlzNyU2_PZTK5": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:53:04"
+    },
+    "-OZcjdEiXRx9_tQu7ScI": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:53:17"
+    },
+    "-OZcjg8epBzwxgFRqU8v": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:53:31"
+    },
+    "-OZcjj1oDUTfD0X5wS_j": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:53:43"
+    },
+    "-OZcjm3qP8wJPMC8hQlM": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:53:56"
+    },
+    "-OZcjugdYriXnpZoTj61": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:54:07"
+    },
+    "-OZcjzOMaJhyejbupxy9": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:54:47"
+    },
+    "-OZck1XuWkFAFo-m4j7P": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:55:04"
+    },
+    "-OZck4wT8cRUdRQzYVPJ": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:55:18"
+    },
+    "-OZck7c-Y28G1061ieWm": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:55:29"
+    },
+    "-OZckAL5-R0RCCuIVy7t": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:55:40"
+    },
+    "-OZckDx9VCbcXBbeW6R7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:55:55"
+    },
+    "-OZckHF42b3_XQz1WYw-": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:56:08"
+    },
+    "-OZckJt9QFSwRSZm8ScN": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 09:56:19"
+    },
+    "-OZdmPwX3WuNANvoUql5": {
+      "event": "New recharge: 2000 Wh",
+      "time": "1970-01-01 00:00:04"
+    },
+    "-OZdmQqLXCgTIUcvmk4U": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:45:09"
+    },
+    "-OZdmTa4gArbRV2g5wC7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:45:20"
+    },
+    "-OZdmWLbKGsPOPxctDqC": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:45:32"
+    },
+    "-OZdm_MyR08Nf6d-_3mS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:45:48"
+    },
+    "-OZdmdjhIgSWYRKW5B2I": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:46:06"
+    },
+    "-OZdmhOijRCf-EC1MR7r": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:46:18"
+    },
+    "-OZdmklqrWevaliyG1Sj": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:46:34"
+    },
+    "-OZdmnv2WYqLIIDt17I6": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:46:48"
+    },
+    "-OZdmrqlRYPDFVsnF0cL": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:47:04"
+    },
+    "-OZdmvOR9hNUK4S1W27_": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:47:17"
+    },
+    "-OZdmyxJwN6F7y7PW_gS": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:47:31"
+    },
+    "-OZdn18oH2ZmriOV4Kwx": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:47:46"
+    },
+    "-OZdn4q5lYro7_J35MdD": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:48:00"
+    },
+    "-OZdnAdwT2XF8702tJnG": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:48:25"
+    },
+    "-OZdnEEokvyzKmZPXwbA": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:48:40"
+    },
+    "-OZdnIOTP51RUfjq3yTl": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:48:53"
+    },
+    "-OZdnMhzVC2wi8wzqITw": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:49:08"
+    },
+    "-OZdnQcROmZQj1Vw_tOt": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:49:27"
+    },
+    "-OZdnTF0FzHczGgPiAX7": {
+      "event": "Data: 0.0Wh used / 2000Wh limit",
+      "time": "2025-09-08 14:49:41"
+    },
+    "-OZxNzCEOFiptAI1q8Q8": {
+      "event": "New recharge: 100 Wh",
+      "time": "2025-09-12 10:06:17"
+    },
+    "-OZxO-WjZ9VFSoTF2cBb": {
+      "event": "Data: 0.0Wh used / 100Wh limit",
+      "time": "2025-09-12 10:06:27"
+    },
+    "-OZxO2KSzQQUK-AXAy6p": {
+      "event": "Data: 0.0Wh used / 100Wh limit",
+      "time": "2025-09-12 10:06:39"
+    }
+  }
+}

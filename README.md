@@ -78,7 +78,7 @@ ThirdEnergy lets anyone fund and operate off-grid micro-stations that deliver re
 
 - `$ENERGY` token ID: [0.0.6862100](https://hashscan.io/testnet/token/0.0.6862100).
 - CrowdFundStation – (Mamu Village): [0.0.6864361](https://hashscan.io/testnet/contract/0.0.6864361).
-- Hedera telementry topic ID: [0.0.6883134](https://hashscan.io/testnet/0.0.6883134)
+- Hedera telementry topic ID: [0.0.6883134](https://hashscan.io/testnet/topic/0.0.6883134)
 
 ## Data & Value Flow
 

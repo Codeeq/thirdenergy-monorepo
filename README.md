@@ -2,6 +2,13 @@
 
 **Track:** DEPIN
 
+### Pitch Deck
+https://drive.google.com/file/d/1eB801piseOoSSOJcDC9U7OgKNRJPthST/view?usp=sharing
+
+### Hedera certificate link
+https://drive.google.com/file/d/141VLUosK0ZkKzCAOB7B0UFjDKzAEH0X4/view?usp=drivesdk
+
+
 ## Vision & Impact
 
 ThirdEnergy lets anyone fund and operate off-grid micro-stations that deliver reliable electricity to underserved communities in Nigeria, while keeping performance and impact verifiable on Hedera. Vetted local vendors collect cash, an ESP32 data logger meters energy and gates the charging dock, and funders earn performance-based returns and participate in governance via a DAO.
@@ -106,11 +113,5 @@ ThirdEnergy lets anyone fund and operate off-grid micro-stations that deliver re
 - Produce 20-50 powerbanks for the Mamu power station subscribers.
 - Integrate on-device failover (LoRaWAN/SMS) for sites with intermittent internet.
 - Launch governance UI for StationGovernor proposals and community voting.
-- 
-### Pitch Deck
-https://drive.google.com/file/d/1eB801piseOoSSOJcDC9U7OgKNRJPthST/view?usp=sharing
-
-### Hedera certificate link
-https://drive.google.com/file/d/141VLUosK0ZkKzCAOB7B0UFjDKzAEH0X4/view?usp=drivesdk
-
+  
 Built by the ThirdEnergy team to demonstrate how Hedera-secured telemetry can unlock bankable microgrid financing for emerging markets.
